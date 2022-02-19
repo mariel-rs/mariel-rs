@@ -6,14 +6,14 @@ Here are some details about me:
 
 ```python
 Mariel = {
-  "education": ["BEng, Chemical Engineering", "MSc, Operational Research"],
+  "education": ["MSc, Operational Research", "BEng, Chemical Engineering"],
   "programming languages": ["Python", "C#"],
   "databases": ["SQL server", "MySQL"],
   "current_job": ["Freelance", "Upwork"],
-  "prev_jobs": ["AspenTech", "University of Edinburgh"],
+  "prev_jobs": ["University of Edinburgh", "AspenTech"],
   "interests": ["Applied Optimization", "Applied Statistics", "Natural Language Processing", "Heuristic methods"],
   "causes": ["STEM education", "improving healthcare with technology"],
-  "hobbies": ["sourdough baking", "cooking", "hiking", "swimming", "being a geek"],
+  "hobbies": ["sourdough baking", "cooking", "hiking", "swimming"],
   "languages": {
         "bilingual": ["Spanish", "English"],
         "basic": ["Portuguese", "French"],
