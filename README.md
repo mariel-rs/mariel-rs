@@ -8,8 +8,8 @@ Mariel = {
   "programming languages": ["Python", "C#"],
   "databases": ["SQL server", "MySQL"],
   "prev_jobs": ["AspenTech", "University of Edinburgh"]
-  "interests": ["Applied Optimization", "Natural Language Processing", "Heuristic methods for solving problems", "Applied Statistics"]
-  "causes": ["raise more awareness to STEM education", "improving healthcare with technology"]
+  "interests": ["Applied Optimization", "Applied Statistics", "Natural Language Processing", "Heuristic methods"]
+  "causes": ["STEM education", "improving healthcare with technology"]
   "hobbies": ["sourdough baking", "cooking", "hiking"]
   "cities": {
         "Mexico": ["Acapulco", "Mexico"],
