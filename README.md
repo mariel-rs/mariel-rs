@@ -2,8 +2,6 @@
 
 My name is Mariel (/maˈɾjɛl/ or combine Mary + Daniel together, that's me). I'm a tech entusiast and a geeky engineer with an avid love for applying mathematics into real-world problems.
 
-[![Linkedin: amreyes12](https://img.shields.io/badge/-amreyes12-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amreyes12/)](https://www.linkedin.com/in/amreyes12/)
-
 Here are some details about me:
 
 ```python
@@ -24,6 +22,7 @@ Mariel = {
 }
 ```
 
+For a more elaborate couration of my experience and what I have been doing, visit my LinkedIn profile [![Linkedin: amreyes12](https://img.shields.io/badge/-amreyes12-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amreyes12/)](https://www.linkedin.com/in/amreyes12/)
 
 
 <!--
