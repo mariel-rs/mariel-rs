@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hiya!
 
 My name is Mariel (/maˈɾjɛl/ or combine Mary + Daniel together, that's me). I'm a tech entusiast and a geeky engineer with an avid love for applying mathematics into real-world problems. Here are some details about me:
 
