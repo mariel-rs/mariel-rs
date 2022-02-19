@@ -14,18 +14,12 @@ Mariel = {
   "current_job": ["Freelance", "Upwork"],
   "prev_jobs": ["AspenTech", "University of Edinburgh"],
   "interests": ["Applied Optimization", "Applied Statistics", "Natural Language Processing", "Heuristic methods"],
-  "pending_assignment": ["Julia", "Golang"],
   "causes": ["STEM education", "improving healthcare with technology"],
   "hobbies": ["sourdough baking", "cooking", "hiking", "swimming", "being a geek"],
   "languages": {
         "bilingual": ["Spanish", "English"],
         "basic": ["Portuguese", "French"],
         "survival": ["German"]
-        }
-  "cities": {
-        "Mexico": ["Acapulco", "Mexico"],
-        "United Kingdom": ["Reading", "Edinburgh"],
-        "Australia": ["Sydney"]
         }
 }
 ```
