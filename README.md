@@ -1,6 +1,6 @@
 ### Hiya! 😁
 
-My name is Mariel (/maˈɾjɛl/ or combine Mary + Daniel together, that's me). I'm a tech entusiast and a geeky engineer with an avid love for applying mathematics into real-world problems.
+Hola. My name is Mariel (/maˈɾjɛl/ or combine Mary + Daniel together, that's me). I'm a tech entusiast and a geeky engineer with an avid love for applying mathematics into real-world problems.
 
 Here are some details about me:
 
@@ -22,20 +22,6 @@ Mariel = {
 }
 ```
 
-For a more elaborate couration of my experience and what I have been doing, visit my LinkedIn profile [![Linkedin: amreyes12](https://img.shields.io/badge/-amreyes12-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amreyes12/)](https://www.linkedin.com/in/amreyes12/)
+For a more elaborate curation of my experience and what I have been doing, visit my LinkedIn profile [![Linkedin: amreyes12](https://img.shields.io/badge/-amreyes12-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amreyes12/)](https://www.linkedin.com/in/amreyes12/)
 
-
-<!--
-**mariel-rs/mariel-rs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If we have similar interests, let's talk! 💬
