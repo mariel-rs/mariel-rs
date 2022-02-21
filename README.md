@@ -12,8 +12,8 @@ Mariel = {
   "current_job": ["Freelance", "Upwork"],
   "prev_jobs": ["University of Edinburgh", "AspenTech"],
   "interests": ["Applied Optimization", "Applied Statistics", "Natural Language Processing", "Heuristic methods"],
-  "causes": ["STEM education", "improving healthcare with technology"],
-  "hobbies": ["sourdough baking", "cooking", "hiking", "swimming"],
+  "causes": ["STEM education", "Improving society with technology"],
+  "hobbies": ["Sourdough baking", "Cooking", "Hiking", "Swimming"],
   "languages": {
         "bilingual": ["Spanish", "English"],
         "basic": ["Portuguese", "French"],
