@@ -7,7 +7,7 @@ Here are some details about me:
 ```python
 Mariel = {
   "education": ["MSc, Operational Research", "BEng, Chemical Engineering"],
-  "programming languages": ["Python", "C#"],
+  "programming languages": ["Python", "C#", "JS"],
   "databases": ["SQL server", "MySQL"],
   "current_job": ["Freelance", "Upwork"],
   "prev_jobs": ["University of Edinburgh", "AspenTech"],
@@ -15,8 +15,8 @@ Mariel = {
   "causes": ["STEM education", "Improving society with technology"],
   "hobbies": ["Sourdough baking", "Cooking", "Hiking", "Swimming"],
   "languages": {
-        "bilingual": ["Spanish", "English"],
-        "basic": ["Portuguese", "French"],
+        "bilingual": ["English", "Spanish"],
+        "basic": ["French", "Portuguese"],
         "survival": ["German"]
         }
 }
