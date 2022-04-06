@@ -7,9 +7,18 @@ Here are some details about me:
 ```python
 Mariel = {
   "education": ["MSc, Operational Research", "BEng, Chemical Engineering"],
-  "programming languages": ["Python", "C#", "JS"],
+  "programming_languages": ["Python", "C#", "JavaScript"],
+  "runtimes": ["NodeJS"],
   "databases": ["SQL server", "MySQL"],
-  "current_job": ["Freelance", "Upwork"],
+  "python_libs": {
+  		"data_handling": ["pandas"],
+		"maps": ["folium", "GeoPandas"],
+		"ML": ["scikit-learn"],
+		"NLP": ["NLTK", "TextBlob"],
+		"scientific_computing": ["NumPy", "SciPy", "SymPy"]
+		"visualization": ["matplotlib", "plotly", "seaborn"]
+  }
+  "current_job": ["Freelance", "Third sector"],
   "prev_jobs": ["University of Edinburgh", "AspenTech"],
   "interests": ["Applied Optimization", "Applied Statistics", "Natural Language Processing", "Heuristic methods"],
   "causes": ["STEM education", "Improving society with technology"],
