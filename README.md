@@ -15,7 +15,7 @@ Mariel = {
 		"maps": ["folium", "GeoPandas"],
 		"ML": ["scikit-learn"],
 		"NLP": ["NLTK", "TextBlob"],
-		"scientific_computing": ["NumPy", "SciPy", "SymPy"]
+		"scientific_computing": ["NumPy", "SciPy", "SymPy"],
 		"visualization": ["matplotlib", "plotly", "seaborn"]
   }
   "current_job": ["Freelance", "Third sector"],
@@ -24,9 +24,9 @@ Mariel = {
   "causes": ["STEM education", "Improving society with technology"],
   "hobbies": ["Sourdough baking", "Cooking", "Hiking", "Swimming"],
   "languages": {
-        "bilingual": ["English", "Spanish"],
-        "basic": ["French", "Portuguese"],
-        "survival": ["German"]
+		"bilingual": ["English", "Spanish"],
+        	"basic": ["French", "Portuguese"],
+        	"survival": ["German"]
         }
 }
 ```
