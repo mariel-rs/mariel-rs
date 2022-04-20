@@ -1,6 +1,6 @@
 ### Hiya! 😁
 
-Hola. My name is Mariel (/maˈɾjɛl/ or combine Mary + Daniel together, that's me). I'm a tech entusiast and a geeky engineer with an avid love for applying mathematics into solving real-world problems.
+Hola. My name is Mariel (/maˈɾjɛl/ or combine Mary + Daniel together, that's me). I'm a tech entusiast and a geeky engineer with an avid love for solving real-world problems using mathematics.
 
 Here are some details about me:
 
@@ -10,6 +10,8 @@ Mariel = {
   "programming_languages": ["Python", "C#", "JavaScript"],
   "runtimes": ["NodeJS"],
   "databases": ["SQL server", "MySQL"],
+  "website_generators": ["Hugo", "Jekyll"],
+  "operating_systems": ["Ubuntu", "Windows"],
   "python_libs": {
   		"data_handling": ["pandas"],
 		"maps": ["folium", "GeoPandas"],
@@ -20,14 +22,15 @@ Mariel = {
   }
   "current_job": ["Freelance", "Third sector"],
   "prev_jobs": ["University of Edinburgh", "AspenTech"],
-  "interests": ["Applied Optimization", "Applied Statistics", "Natural Language Processing", "Heuristic methods"],
-  "causes": ["STEM education", "Improving society with technology"],
-  "hobbies": ["Sourdough baking", "Cooking", "Hiking", "Swimming"],
   "languages": {
 		"bilingual": ["English", "Spanish"],
         	"basic": ["French", "Portuguese"],
+		"currently_learning": ["Toki pona"],
         	"survival": ["German"]
-        }
+        },  
+  "interests": ["Applied Optimization", "Applied Statistics", "Natural Language Processing", "Heuristic methods"],
+  "causes": ["STEM education", "Improving society with technology"],
+  "hobbies": ["Sourdough baking", "Cooking", "Hiking", "Swimming"]
 }
 ```
 
