@@ -10,7 +10,7 @@ Mariel = {
   "programming_languages": ["Python", "C#", "JavaScript"],
   "runtimes": ["NodeJS"],
   "databases": ["SQL server", "MySQL"],
-  "website_generators": ["Hugo", "Jekyll"],
+  "website_generators": ["Hugo"],
   "operating_systems": ["Ubuntu", "Windows"],
   "python_libs": {
   		"data_handling": ["pandas"],
