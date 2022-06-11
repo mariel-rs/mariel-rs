@@ -8,6 +8,7 @@ Hola. My name is Mariel (/maˈɾjɛl/ or combine Mary + Daniel together, that's 
 | :---: | ----------- |
 | **Databases** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height=45 width=45/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height=45 width=45/> |
 | **Web development** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height=35 width=35/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hugo/hugo-original.svg" height=35 width=35/> |
+|**BI**|<img src="img/powerbi.svg" height=35 width=35> <img src="img/tableau.svg" height=35 width=35>|
 | **Having fun with** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" height=35 width=35/> |
           
 ### About me
