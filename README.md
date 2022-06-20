@@ -31,7 +31,7 @@ For a more elaborate curation of my experience and what I have been doing, visit
 
 ### Some stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariel-rs&layout=compact&hide=jupyter%20notebook)](https://github.com/mariel-rs/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariel-rs&layout=compact&hide=jupyter%20notebook)]()
 
 
 <!--
