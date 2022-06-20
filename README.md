@@ -29,6 +29,11 @@ Mariel = {
 
 For a more elaborate curation of my experience and what I have been doing, visit my LinkedIn profile [![Linkedin: amreyes12](https://img.shields.io/badge/-amreyes12-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amreyes12/)](https://www.linkedin.com/in/amreyes12/)
 
+### Some stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariel-rs&layout=compact&hide=jupyter%20notebook)](https://github.com/mariel-rs/github-readme-stats)
+
+
 <!--
 If we have similar interests, let's talk! 💬
 -->
