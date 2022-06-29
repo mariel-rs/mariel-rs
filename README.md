@@ -4,12 +4,14 @@ Hola. My name is Mariel (/maˈɾjɛl/ or combine Mary + Daniel together, that's 
 
 ### Stack
 
-| Languages | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height=35 width=35/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height=35 width=35/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height=35 width=35/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height=35 width=35/> |
+| **Languages** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height=35 width=35/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height=35 width=35/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height=35 width=35/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height=35 width=35/> |
 | :---: | ----------- |
 | **Databases** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height=45 width=45/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height=45 width=45/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" height=48 width=48/> |
-| **Web development** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height=35 width=35/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hugo/hugo-original.svg" height=35 width=35/> |
+| **Web development** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height=35 width=35/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height=35 width=35/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height=35 width=35/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hugo/hugo-original.svg" height=35 width=35/> |
 |**BI**|<img src="img/powerbi.svg" height=35 width=35> |
-| **Having fun with** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" height=35 width=35/>  <img src="img/tableau.svg" height=35 width=35> |
+| **Currently having fun with** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height=35 width=35/> |
+
+<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" height=35 width=35/>  <img src="img/tableau.svg" height=35 width=35>  -->
           
 ### About me
 
@@ -32,8 +34,3 @@ For a more elaborate curation of my experience and what I have been doing, visit
 ### Some stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariel-rs&layout=compact&hide=jupyter%20notebook)](#)
-
-
-<!--
-If we have similar interests, let's talk! 💬
--->
