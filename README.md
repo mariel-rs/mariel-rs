@@ -106,7 +106,6 @@ For a more elaborate curation of my experience and what I have been doing, visit
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-%23181717.svg?style=flat-square&logo=gitlab&logoColor=white)
 ![Perforce Helix](https://img.shields.io/badge/-Perforce%20Helix-00AEEF?style=flat-square&logo=Perforce&logoColor=white)
 
 ### :bar_chart: Stats
