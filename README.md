@@ -1,8 +1,8 @@
 ### Hiya! 😁
 
 ```batch
-echo "Hola! My name is Mariel (/maˈɾjɛl/ or combine Mary + Daniel together, that's me). Welcome to my Github profile.
-I'm a tech entusiast and a geeky engineer with an avid curiosity for analytics, data, statistics and solving problems."
+echo "¡Hola! Welcome to my Github profile. My name is Mariel (/maˈɾjɛl/ or combine Mary + Daniel together). 
+I'm a tech enthusiast and a geeky engineer with an avid curiosity about analytics, data, statistics and solving problems."
 ```
 
 <table><tr><td valign="top" width="33%">
