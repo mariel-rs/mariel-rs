@@ -1,6 +1,9 @@
 ### Hiya! 😁
 
-Hola. My name is Mariel (/maˈɾjɛl/ or combine Mary + Daniel together, that's me). I'm a tech entusiast and a geeky engineer with an avid curiosity for data, statistics and solving real-world problems. 
+```batch
+echo "Hola! My name is Mariel (/maˈɾjɛl/ or combine Mary + Daniel together, that's me). Welcome to my Github profile.
+I'm a tech entusiast and a geeky engineer with an avid curiosity for analytics, data, statistics and solving problems."
+```
 
 <table><tr><td valign="top" width="33%">
 
