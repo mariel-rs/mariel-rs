@@ -30,13 +30,23 @@ Mariel = {
 }
 ```
 
-### :world_map: Food and the City (_where I have lived_)
+### :world_map: Food and the City
 
 - Prawn soup <img src="https://img.shields.io/badge/-Acapulco-2e94ba?style=flat-square&logo=freelancer&logoColor=white"/>
 - Haddock and chips <img src="https://img.shields.io/badge/-Edinburgh-005EB8?style=flat-square&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIj8+CjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMTAwMCIgaGVpZ2h0PSI2MDAiPgo8cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSIjMDA1RUI4Ii8+CjxwYXRoIGQ9Ik0gMCwwIEwgMTAwMCw2MDAgTSAwLDYwMCBMIDEwMDAsMCIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjEyMCIvPgo8L3N2Zz4=&logoColor=white"/> 
 - Tacos al pastor <img src="https://img.shields.io/badge/-Mexico%20City-ff5000?style=flat-square&logo=metrodelaciudaddemexico&logoColor=white"/> 
 - Veg momo <img src="https://img.shields.io/badge/-Reading-53004e?style=flat-square&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI4MDAiIGhlaWdodD0iNDgwIj4KPHBhdGggZmlsbD0iI0ZGRiIgZD0ibTAsMGg4MDB2NDgwSDAiLz4KPHBhdGggc3Ryb2tlPSIjQzgxMDJFIiBzdHJva2Utd2lkdGg9Ijk2IiBkPSJtMCwyNDBoODAwTTQwMCwwdjQ4MCIvPgo8L3N2Zz4=&logoColor=white"/> 
 - Kangaroo steak <img src="https://img.shields.io/badge/-Sydney-E40000?style=flat-square&logo=qantas&logoColor=white"/> 
+
+### :headphones: Music for coding (Top 7)
+
+- ABBA
+- A State of Trance mixes
+- Chopin's Nocturnes
+- Goldfrapp
+- La Oreja de Van Gogh
+- Spice Girls
+- Universal Religion
 
 ### :briefcase: Contact
 
