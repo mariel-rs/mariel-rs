@@ -27,7 +27,8 @@ Mariel = {
 	"Decision Science",
 	"Natural Language Processing", 
 	"Heuristic methods", 
-	"Simulations"
+	"Simulations",
+	"Web development"
 	],
   "hobbies": ["Sourdough baking", "Cooking", "Hiking", "Swimming"]
 }
