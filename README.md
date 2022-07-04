@@ -111,6 +111,11 @@ For a more elaborate curation of my experience and what I have been doing, visit
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)
 ![Perforce Helix](https://img.shields.io/badge/-Perforce%20Helix-00AEEF?style=flat-square&logo=Perforce&logoColor=white)
 
+### :pencil2: Recent activity
+
+- [LaunchX backend mission (Node.js)](https://github.com/mariel-rs/playbook)
+- [PowerBI experiments](https://github.com/mariel-rs/powerbi_experiments)
+
 ### :bar_chart: Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariel-rs&layout=compact&hide=jupyter%20notebook)](#)
