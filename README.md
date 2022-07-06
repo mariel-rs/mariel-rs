@@ -1,7 +1,7 @@
 ### Hiya! 😁
 
-```batch
-echo "¡Hola! Welcome to my Github profile. My name is Mariel (/maˈɾjɛl/ or combine Mary + Daniel together). 
+```cmd
+echo "¡Hola! Welcome to my GitHub profile. My name is Mariel (/maˈɾjɛl/ or combine Mary + Daniel together). 
 I'm a tech enthusiast and a geeky engineer with an avid curiosity about analytics, data, statistics and solving problems."
 ```
 
@@ -50,7 +50,7 @@ Mariel = {
 - Goldfrapp
 - La Oreja de Van Gogh
 - Spice Girls
-- Universal Religion
+- Universal Religion compilations
 
 ### :briefcase: Contact
 
