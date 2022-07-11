@@ -48,8 +48,8 @@ Mariel = {
 - A State of Trance mixes
 - Chopin's Nocturnes
 - Goldfrapp
+- In Search of Sunrise compilations
 - La Oreja de Van Gogh
-- Spice Girls
 - Universal Religion compilations
 
 ### :briefcase: Contact
