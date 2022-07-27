@@ -115,8 +115,8 @@ For a more elaborate curation of my experience and what I have been doing, visit
 
 ### :pencil2: Recent activity
 
+- [Java programming MOOC exercises](https://github.com/mariel-rs/mooc_fi_java)
 - [LaunchX backend mission (Node.js)](https://github.com/mariel-rs/playbook)
-- [PowerBI experiments](https://github.com/mariel-rs/powerbi_experiments)
 
 ### :bar_chart: Stats
 
