@@ -30,7 +30,7 @@ Mariel = {
 	"Simulations",
 	"Web development"
 	],
-  "hobbies": ["Sourdough baking", "Cooking", "Hiking", "Swimming"]
+  "hobbies": ["Cooking", "Hiking", "Sourdough", "Swimming"]
 }
 ```
 
@@ -44,11 +44,11 @@ Mariel = {
 
 ### :headphones: Music for coding (Top 8)
 
-- ABBA
 - A State of Trance mixes
 - Chopin's Nocturnes
 - Fey
 - Goldfrapp
+- HouseNation UK radio
 - In Search of Sunrise compilations
 - La Oreja de Van Gogh
 - Universal Religion compilations
@@ -102,6 +102,11 @@ For a more elaborate curation of my experience and what I have been doing, visit
 
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat-square&logo=visual-studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+**OS**
+
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 
 **Testing**
 
