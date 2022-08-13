@@ -1,9 +1,13 @@
-### Hiya! 😁
+### Hiya! Welcome to my GitHub profile 😁
 
 ```cmd
-echo "¡Hola! Welcome to my GitHub profile. My name is Mariel (/maˈɾjɛl/ or combine Mary + Daniel together). 
-I'm a tech enthusiast and a geeky engineer with an avid curiosity about analytics, data, statistics and solving problems."
+ECHO "¡Hola! My name is Mariel (/maˈɾjɛl/ or combine Mary + Daniel together). Tech enthusiast and
+geek engineer with an avid curiosity about analytics, data, statistics and solving problems."
+
+START profile
 ```
+
+[![Linkedin: amreyes12](https://img.shields.io/badge/-amreyes12-blue?style=social&logo=Linkedin&link=https://www.linkedin.com/in/amreyes12/)](https://www.linkedin.com/in/amreyes12/) [![Hugo](https://img.shields.io/badge/Mariel's%20blog-FF4088?style=social&logo=hugo)](https://mariel-rs.github.io/blogs/)
 
 <table><tr><td valign="top" width="33%">
 
@@ -34,6 +38,17 @@ Mariel = {
 }
 ```
 
+### :pencil2: Recent activity
+
+- [My blog](http://mariel-rs.github.io/blogs)
+- [Java programming MOOC exercises](https://github.com/mariel-rs/mooc_fi_java)
+- [LaunchX backend mission (Node.js)](https://github.com/mariel-rs/playbook)
+
+### :bar_chart: Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariel-rs&langs_count=8&layout=compact&hide=jupyter%20notebook)](#)
+
+
 ### :world_map: Food and the City
 
 - Prawn soup <img src="https://img.shields.io/badge/-Acapulco-2e94ba?style=flat-square&logo=freelancer&logoColor=white"/>
@@ -41,21 +56,6 @@ Mariel = {
 - Tacos al pastor <img src="https://img.shields.io/badge/-Mexico%20City-ff5000?style=flat-square&logo=metrodelaciudaddemexico&logoColor=white"/> 
 - Veg momo <img src="https://img.shields.io/badge/-Reading-53004e?style=flat-square&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI4MDAiIGhlaWdodD0iNDgwIj4KPHBhdGggZmlsbD0iI0ZGRiIgZD0ibTAsMGg4MDB2NDgwSDAiLz4KPHBhdGggc3Ryb2tlPSIjQzgxMDJFIiBzdHJva2Utd2lkdGg9Ijk2IiBkPSJtMCwyNDBoODAwTTQwMCwwdjQ4MCIvPgo8L3N2Zz4=&logoColor=white"/> 
 - Kangaroo steak <img src="https://img.shields.io/badge/-Sydney-E40000?style=flat-square&logo=qantas&logoColor=white"/> 
-
-### :headphones: Music for coding (Top 8)
-
-- A State of Trance mixes
-- Chopin's Nocturnes
-- Fey
-- Goldfrapp
-- HouseNation UK radio
-- In Search of Sunrise compilations
-- La Oreja de Van Gogh
-- Universal Religion compilations
-
-### :briefcase: Contact
-
-For a more elaborate curation of my experience and what I have been doing, visit my LinkedIn profile [![Linkedin: amreyes12](https://img.shields.io/badge/-amreyes12-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amreyes12/)](https://www.linkedin.com/in/amreyes12/)
 
 </td><td valign="top" width="55%">
 
@@ -100,6 +100,7 @@ For a more elaborate curation of my experience and what I have been doing, visit
 
 **IDE / Editor**
 
+![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?style=flat-square&logo=vim&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat-square&logo=visual-studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
 
@@ -120,13 +121,15 @@ For a more elaborate curation of my experience and what I have been doing, visit
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)
 ![Perforce Helix](https://img.shields.io/badge/-Perforce%20Helix-00AEEF?style=flat-square&logo=Perforce&logoColor=white)
 
-### :pencil2: Recent activity
+### :headphones: A song for your thoughts
 
-- [Java programming MOOC exercises](https://github.com/mariel-rs/mooc_fi_java)
-- [LaunchX backend mission (Node.js)](https://github.com/mariel-rs/playbook)
-
-### :bar_chart: Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariel-rs&langs_count=8&layout=compact&hide=jupyter%20notebook)](#)
+- A State of Trance mixes
+- Chopin's Nocturnes
+- Goldfrapp
+- HouseNation UK radio
+- In Search of Sunrise compilations
+- La Oreja de Van Gogh
+- Phever.ie radio
+- Universal Religion compilations
 
 </td></tr></table>
