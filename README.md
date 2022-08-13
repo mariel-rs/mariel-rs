@@ -105,6 +105,7 @@ For a more elaborate curation of my experience and what I have been doing, visit
 
 **OS**
 
+![CentOS](https://img.shields.io/badge/CentOS-002260?style=flat-squarge&logo=centos&logoColor=F0F0F0)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 
