@@ -1,4 +1,4 @@
-### Hiya! Welcome to my GitHub profile 😁
+## Hiya! Welcome to my GitHub profile 😁
 
 ```cmd
 ECHO "¡Hola! My name is Mariel (/maˈɾjɛl/ or combine Mary + Daniel together). Tech enthusiast and
@@ -7,7 +7,11 @@ geek engineer with an avid curiosity about analytics, data, statistics and solvi
 START profile
 ```
 
-[![Linkedin: amreyes12](https://img.shields.io/badge/-amreyes12-blue?style=social&logo=Linkedin)](https://www.linkedin.com/in/amreyes12/) ![mail](https://img.shields.io/badge/mariel%2Ersal-EA4335?&style=social&logo=gmail) [![Hugo](https://img.shields.io/badge/Mariel's%20blog-FF4088?style=social&logo=hugo)](https://mariel-rs.github.io/blogs/)
+[![Linkedin: amreyes12](https://img.shields.io/badge/-amreyes12-blue?style=social&logo=Linkedin)](https://www.linkedin.com/in/amreyes12/) [![Hugo](https://img.shields.io/badge/Mariel's%20blog-FF4088?style=social&logo=hugo)](https://mariel-rs.github.io/blogs/)
+
+<!--
+![mail](https://img.shields.io/badge/mariel%2Ersal-EA4335?&style=social&logo=gmail)
+-->
 
 <table><tr><td valign="top" width="33%">
 
