@@ -22,16 +22,16 @@ START profile
 
 ```javascript
 const Mariel = {
-  "education": [
+  education: [
   	"MSc, Operational Research", 
   	"BEng, Chemical Engineering"
 	],
-  "languages": {
+  languages: {
 		"bilingual": ["English", "Spanish"],
         	"basic": ["French", "Portuguese"],
         	"survival": ["German"]
         },  
-  "interests": [
+  interests: [
   	"Analytics",
   	"Applied Optimization", 
 	"Applied Statistics", 
@@ -41,8 +41,8 @@ const Mariel = {
 	"Simulations",
 	"Software development"
 	],
-  "hobbies": ["Cooking", "Hiking", "Sourdough", "Swimming"]
-}
+  hobbies: ["Cooking", "Hiking", "Sourdough", "Swimming"]
+};
 ```
 
 ### :pencil2: Recent activity
