@@ -1,8 +1,11 @@
-## Hiya! Welcome to my GitHub profile 😁
+## Hiya! Welcome to my GitHub profile :grin:
 
 ```cmd
-ECHO "¡Hola! My name is Mariel (/maˈɾjɛl/ or combine Mary + Daniel together). Tech enthusiast and
-geek engineer with an avid curiosity about analytics, data, statistics and solving problems."
+TITLE profile
+
+ECHO "Hola, my name is Mariel (/maˈɾjɛl/)."
+
+ECHO "I'm a geeky engineer who likes to get things done with tech and continuous learning"
 
 START profile
 ```
@@ -17,8 +20,8 @@ START profile
 
 ### :notebook: About me
 
-```python
-Mariel = {
+```javascript
+const Mariel = {
   "education": [
   	"MSc, Operational Research", 
   	"BEng, Chemical Engineering"
@@ -29,14 +32,14 @@ Mariel = {
         	"survival": ["German"]
         },  
   "interests": [
+  	"Analytics",
   	"Applied Optimization", 
 	"Applied Statistics", 
-	"Analytics",
 	"Decision Science",
-	"Natural Language Processing", 
 	"Heuristic methods", 
+	"Natural Language Processing", 
 	"Simulations",
-	"Web development"
+	"Software development"
 	],
   "hobbies": ["Cooking", "Hiking", "Sourdough", "Swimming"]
 }
