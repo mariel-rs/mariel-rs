@@ -27,9 +27,9 @@ const Mariel = {
   	"BEng, Chemical Engineering"
 	],
   languages: {
-		"bilingual": ["English", "Spanish"],
-        	"basic": ["French", "Portuguese"],
-        	"survival": ["German"]
+		bilingual: ["English", "Spanish"],
+        	basic: ["French", "Portuguese"],
+        	survival: ["German"]
         },  
   interests: [
   	"Analytics",
