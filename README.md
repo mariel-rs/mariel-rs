@@ -55,6 +55,7 @@ const Mariel = {
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariel-rs&langs_count=8&layout=compact&hide=jupyter%20notebook)](#)
 
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=marielrs)](#)
 <!--
 
 ### :world_map: Food and the City
@@ -136,7 +137,6 @@ const Mariel = {
 - A State of Trance mixes
 - Café del Mar
 - Chopin's Nocturnes
-- Goldfrapp
 - HouseNation UK radio
 - In Search of Sunrise compilations
 - Phever.ie radio
