@@ -55,6 +55,7 @@ const Mariel = {
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariel-rs&langs_count=8&layout=compact&hide=jupyter%20notebook)](#)
 
+<!--
 
 ### :world_map: Food and the City
 
@@ -63,6 +64,8 @@ const Mariel = {
 - Tacos al pastor <img src="https://img.shields.io/badge/-Mexico%20City-ff5000?style=flat-square&logo=metrodelaciudaddemexico&logoColor=white"/> 
 - Veg momo <img src="https://img.shields.io/badge/-Reading-53004e?style=flat-square&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI4MDAiIGhlaWdodD0iNDgwIj4KPHBhdGggZmlsbD0iI0ZGRiIgZD0ibTAsMGg4MDB2NDgwSDAiLz4KPHBhdGggc3Ryb2tlPSIjQzgxMDJFIiBzdHJva2Utd2lkdGg9Ijk2IiBkPSJtMCwyNDBoODAwTTQwMCwwdjQ4MCIvPgo8L3N2Zz4=&logoColor=white"/> 
 - Kangaroo steak <img src="https://img.shields.io/badge/-Sydney-E40000?style=flat-square&logo=qantas&logoColor=white"/> 
+
+-->
 
 </td><td valign="top" width="55%">
 
@@ -131,11 +134,11 @@ const Mariel = {
 ### :headphones: A song for your thoughts
 
 - A State of Trance mixes
+- Café del Mar
 - Chopin's Nocturnes
 - Goldfrapp
 - HouseNation UK radio
 - In Search of Sunrise compilations
-- La Oreja de Van Gogh
 - Phever.ie radio
 - Universal Religion compilations
 
