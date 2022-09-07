@@ -28,7 +28,7 @@ const Mariel = {
 	],
   languages: {
 		bilingual: ["English", "Spanish"],
-		intermediate: ["Portuguese"]
+		intermediate: ["Portuguese"],
         	basic: ["French"],
         	survival: ["German"]
         },  
