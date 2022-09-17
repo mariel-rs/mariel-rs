@@ -49,8 +49,7 @@ const Mariel = {
 ### :pencil2: Recent activity
 
 - [My blog](http://mariel-rs.github.io/blogs)
-- [Java programming MOOC exercises](https://github.com/mariel-rs/mooc_fi_java)
-- [LaunchX backend mission (Node.js)](https://github.com/mariel-rs/playbook)
+- [Java programming II MOOC exercises](https://github.com/mariel-rs/mooc_fi_java_ii)
 
 ### :bar_chart: Stats
 
@@ -139,7 +138,7 @@ const Mariel = {
 - Café del Mar
 - Chopin's Nocturnes
 - HouseNation UK radio
-- In Search of Sunrise compilations
+- Jovem Pan Sertanejo radio
 - Phever.ie radio
 - Universal Religion compilations
 
