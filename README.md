@@ -5,7 +5,7 @@ TITLE profile
 
 ECHO "Hola, my name is Mariel (/maˈɾjɛl/)."
 
-ECHO "I'm a geeky engineer who likes to get things done with tech and continuous learning"
+ECHO "I like to get things done with technology and I love to learn new things"
 
 START profile
 ```
@@ -138,8 +138,8 @@ const Mariel = {
 - Café del Mar
 - Chopin's Nocturnes
 - HouseNation UK radio
-- Jovem Pan Sertanejo radio
 - Phever.ie radio
+- Sertanejo
 - Universal Religion compilations
 
 </td></tr></table>
