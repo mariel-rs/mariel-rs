@@ -5,7 +5,7 @@ TITLE profile
 
 ECHO "Hola, my name is Mariel (/maˈɾjɛl/)."
 
-ECHO "I like to get things done with technology and I love to learn new things"
+ECHO "I am a Jr Philomath and I love getting things done with technology"
 
 START profile
 ```
