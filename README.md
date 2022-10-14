@@ -3,9 +3,7 @@
 ```cmd
 TITLE profile
 
-ECHO "Hola, my name is Mariel (/maˈɾjɛl/)."
-
-ECHO "I love getting things done with technology"
+ECHO "Hola, my name is Mariel (/maˈɾjɛl/) and I love getting things done with technology"
 
 START profile
 ```
