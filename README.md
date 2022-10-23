@@ -40,7 +40,7 @@ const Mariel = {
 	"Simulations",
 	"Software development"
 	],
-  hobbies: ["Cooking", "Hiking", "Sourdough", "Swimming"]
+  hobbies: ["Cooking", "Hiking", "Sourdough", "Swimming", "VR games"]
 };
 ```
 
