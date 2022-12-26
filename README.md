@@ -1,8 +1,6 @@
 ## Hiya! Welcome to my GitHub profile :grin:
 
 ```cmd
-TITLE profile
-
 ECHO "Hola, my name is Mariel (/maˈɾjɛl/) and I love getting things done with technology"
 
 START profile
@@ -115,7 +113,8 @@ const Mariel = {
 
 **OS**
 
-![CentOS](https://img.shields.io/badge/CentOS-002260?style=flat-squarge&logo=centos&logoColor=F0F0F0)
+![CentOS](https://img.shields.io/badge/CentOS-002260?style=flat-square&logo=centos&logoColor=F0F0F0)
+![Pop!\_OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=flat-square&logo=Pop!_OS&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 
