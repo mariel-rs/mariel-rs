@@ -46,6 +46,7 @@ const Mariel = {
 
 - [My blog](http://mariel-rs.github.io/blogs)
 - [Java programming II MOOC exercises](https://github.com/mariel-rs/mooc_fi_java_ii)
+- [Introduction to Julia course](https://github.com/mariel-rs/Introduction-to-Julia)
 
 ### :bar_chart: Stats
 
