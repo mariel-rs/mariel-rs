@@ -50,7 +50,7 @@ const Mariel = {
 
 ### :bar_chart: Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariel-rs&langs_count=8&layout=compact&hide=jupyter%20notebook)](#)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariel-rs&langs_count=10&layout=compact&hide=jupyter%20notebook)](#)
 
 [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=marielrs)](#)
 <!--
