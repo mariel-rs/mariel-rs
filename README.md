@@ -17,7 +17,7 @@ START profile
 ### :notebook: About me
 
 ```javascript
-const Mariel = {
+var Mariel = {
   education: [
   	"MSc, Operational Research", 
   	"BEng, Chemical Engineering"
