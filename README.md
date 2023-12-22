@@ -25,7 +25,7 @@ var Mariel = {
   languages: {
 		bilingual: ["English", "Spanish"],
 		advanced: ["Portuguese"],
-        	basic: ["French"],
+        	learning: ["French"],
         	survival: ["German"]
         },  
   interests: [
@@ -38,7 +38,10 @@ var Mariel = {
 	"Simulations",
 	"Software development"
 	],
-  hobbies: ["Cooking", "Hiking", "Sourdough", "Swimming", "VR games"]
+  hobbies: [
+	"Cooking", "Guitar", "Hiking",
+	"Sourdough", "Swimming", "VR games"
+	]
 };
 ```
 
