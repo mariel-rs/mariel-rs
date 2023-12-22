@@ -24,7 +24,7 @@ var Mariel = {
 	],
   languages: {
 		bilingual: ["English", "Spanish"],
-		intermediate: ["Portuguese"],
+		advanced: ["Portuguese"],
         	basic: ["French"],
         	survival: ["German"]
         },  
